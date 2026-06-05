@@ -1,0 +1,27 @@
+.checkout-page {
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.checkout-card {
+  text-align: center;
+  padding: 40px;
+  border-radius: 12px;
+  background: white;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.1);
+}
+
+.back-home-btn {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 20px;
+  background: black;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+}
+
+
+default export CheckoutSuccess;
